@@ -1,6 +1,6 @@
 {
   "name": "redux-plainify",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description":
     "A redux middleware serializing class actions to normal objects",
   "main": "index.js",
