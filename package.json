@@ -1,8 +1,10 @@
 {
   "name": "redux-plainify",
-  "version": "0.1.0",
-  "description": "A redux middleware serializing class actions to normal objects",
+  "version": "0.2.0",
+  "description":
+    "A redux middleware serializing class actions to normal objects",
   "main": "index.js",
+  "typings": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,5 +1,5 @@
-module.exports = function() {
-  return function(args) {
+module.exports = {
+  default: function(args) {
     return function(next) {
       return function(action) {
         if (
@@ -19,5 +19,5 @@ module.exports = function() {
         return next(action);
       };
     };
-  };
+  }
 };
