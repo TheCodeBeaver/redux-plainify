@@ -1,6 +1,6 @@
 {
   "name": "redux-plainify",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description":
     "A redux middleware serializing class actions to normal objects",
   "main": "index.js",
@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/TheCodeBeaver/redux-plainify/issues"
   },
-  "homepage": "https://github.com/TheCodeBeaver/redux-plainify#readme"
+  "homepage": "https://github.com/TheCodeBeaver/redux-plainify#readme",
+  "keywords": ["redux", "plainify", "middleware"]
 }
